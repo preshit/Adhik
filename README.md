@@ -1,12 +1,14 @@
 ## Adhik for Google+
-====================
-	https://github.com/preshit/Adhik
-
 
 Description
 -----------
 	
-	Adhik for Google+ is a Chrome Extension that improves the layout of Google+ to enable better consumption of content. Project originally initiated by [Preshit Deorukhkar](http://preshit.net/)
+Adhik for Google+ is a Chrome Extension that improves the layout of Google+ to enable better consumption of content. Project originally initiated by [Preshit Deorukhkar](http://preshit.net/)
+
+https://github.com/preshit/Adhik
+
+
+
 
 License
 -------
