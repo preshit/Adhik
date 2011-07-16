@@ -1,0 +1,16 @@
+{
+  "name": "Adhik",
+  "version": "0.5.1",
+  "description": "A beautiful CSS facelift for Google+",
+  "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"  
+  },
+  "content_scripts": [ {
+      "css": [ "style.css" ],
+      "matches": [ "*://plus.google.com/*" ],
+      "exclude_globs": [ "*://plus.google.com/settings/*", "*://plus.google.com/photos" ]
+   } ]
+}
+
